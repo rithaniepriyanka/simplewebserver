@@ -54,9 +54,8 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![output](./static/img/multihtml.png)
-![output](./static/img/output.png)
-![output](./static/img/validator.png)
+![output](./static/img/output1.png)
+![output](./static/img/validate1.png)
 
 ## RESULT:
 Thus a website is designed for the simple webserver and is hosted in the 
